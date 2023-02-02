@@ -1,0 +1,38 @@
+[
+    {
+        "idnum":"pb@123",
+        "nameoncard":"white",
+        "customerDetails":
+        {
+             "firstname":"priya",
+	         "middlename":"verma",
+	         "lastname":"singh",
+	         "mobileno":"9868745121",
+	        "emailid":"priyapatel@gmail.com",
+	         "dob":"2005-12-10"
+
+        },
+        "identitytypes":
+        {
+            "identityType":"Driving License"
+        }
+    },
+    {
+        "idnum":"Abh@345",
+        "nameoncard":"blue",
+        "customerDetails":
+        {
+             "firstname":"Abhay",
+	         "middlename":"singh",
+	         "lastname":"verma",
+	         "mobileno":"9867378123",
+	        "emailid":"abhayverma@gmail.com",
+	         "dob":"2006-12-10"
+        },
+         "identitytypes":
+         {
+          "identityType":"Voter Card"
+         }
+    }
+
+]
